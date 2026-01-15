@@ -1,2 +1,3 @@
 # Digital-clock
 The outdoor clock is a self-contained, NeoPixel LED or otherwise Digital Pixel display designed to display time, date, temperature and additional diagnostic information via a WEB UI. The device can be designed to be weatherproof and used outdoors, is easily controlled via Wi-Fi and has extensive functionality, including automatic brightness algorithms, WEB UI, DST, time zones, night mode, temperature compensation, color themes and over-the-air firmware updates (OTA). The clock is based on ESP8266 but can also be adapted to ESP12 or Arduino modules.
+This code is done with a Copilot help.
