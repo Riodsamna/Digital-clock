@@ -1,7 +1,6 @@
-Outdoor LED Clock (ESP8266)
+Indoor or Outdoor LED Clock (ESP8266)
 A fully‑featured outdoor LED clock built on the ESP8266 platform.
 It displays time, temperature, and date, includes a web‑based configuration interface, supports OTA firmware updates, and features a customizable temperature‑based color system.
-This project was created with the assistance of Microsoft Copilot.
 
 Overview
 This project is a standalone outdoor LED clock designed for long‑term, reliable operation.
@@ -48,7 +47,7 @@ This creates smooth, uniform digits and improves visibility in daylight.
 The enclosure can be 3D‑printed, CNC‑cut, or custom‑built depending on installation needs.
 
 Key Features
-Time & Date
+Time, Date & Temperature
 Large 4‑digit time display (HH:MM)
 
 Blinking seconds indicator
@@ -58,9 +57,6 @@ Automatic NTP synchronization
 DST (Daylight Saving Time) support for EU rules
 
 RTC fallback when Wi‑Fi is unavailable
-
-Temperature
-DS18B20 sensor reading
 
 Adjustable temperature offset
 
